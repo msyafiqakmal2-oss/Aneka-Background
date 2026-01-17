@@ -186,9 +186,11 @@ GSAP untuk animasi slow-motion
   melambangkan arus data, sistem digital rahasia, dan dunia siber tingkat tinggi. Atmosfer visualnya memberikan kesan 
   bahwa pengguna telah memasuki area terlarang atau inti sistem.
 
- # . Di bagian tengah layar terdapat teks utama “FINAL BOSS” dengan efek glitch dan neon glow, yang menegaskan bahwa halaman ini merepresentasikan level tertinggi, entitas terakhir, atau penguasa sistem. Efek glitch pada teks menciptakan kesan ketidakstabilan sistem, seolah halaman ini memiliki kekuatan atau ancaman tersembunyi.
+ # . Di bagian tengah layar terdapat teks utama “FINAL BOSS”
+ dengan efek glitch dan neon glow, yang menegaskan bahwa halaman ini merepresentasikan level tertinggi, entitas terakhir, atau penguasa sistem. Efek glitch pada teks menciptakan kesan ketidakstabilan sistem, seolah halaman ini memiliki kekuatan atau ancaman tersembunyi.
 
- # . Di bawahnya terdapat teks kecil “YOU SHOULD NOT BE HERE”, yang berfungsi sebagai peringatan psikologis kepada pengguna. Kalimat ini memperkuat narasi bahwa halaman tersebut bukan untuk pengguna biasa, melainkan area eksklusif, rahasia, atau berbahaya dalam sistem digital.
+ # . Di bawahnya terdapat teks kecil “YOU SHOULD NOT BE HERE”,
+ yang berfungsi sebagai peringatan psikologis kepada pengguna. Kalimat ini memperkuat narasi bahwa halaman tersebut bukan untuk pengguna biasa, melainkan area eksklusif, rahasia, atau berbahaya dalam sistem digital.
 
 # . Karakteristik Utama Web
 Tema: Cyber, Hacker, Matrix, Final Boss System

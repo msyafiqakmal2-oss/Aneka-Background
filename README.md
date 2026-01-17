@@ -85,3 +85,32 @@ HTML5 + CSS3 (glow, gradient, light effect).
 JavaScript untuk interaksi dan kontrol efek.
 Canvas / WebGL / Three.js untuk dunia partikel dan energi.
 GSAP / Framer Motion untuk animasi cinematic.
+
+#. CYBER MODE ( INDEEX.HTML )
+   Cyber Mode Web adalah konsep desain website yang mengusung tema dunia digital, jaringan siber, dan teknologi futuristik. Konsep ini terinspirasi dari estetika cyberpunk, artificial intelligence, hacking culture, dan sistem jaringan modern, sehingga menampilkan kesan cerdas, cepat, dan penuh kontrol data. Cyber Mode Web menempatkan pengguna seolah berada di dalam pusat kendali sistem siber.
+#. Konsep dan Filosofi
+Cyber Mode Web merepresentasikan:
+Koneksi tanpa batas antar sistem dan data.
+Kecepatan, efisiensi, dan presisi teknologi digital.
+Dunia maya sebagai ruang hidup baru manusia.
+Website tidak hanya menampilkan informasi, tetapi juga menghadirkan simulasi ekosistem siber yang aktif dan responsif.
+#. Ciri Visual Utama
+Karakteristik Cyber Mode Web meliputi:
+Warna neon futuristik seperti hijau matrix, biru elektrik, cyan, dan ungu.
+Background gelap dengan grid digital atau aliran data.
+Efek glitch, scanline, dan digital noise.
+Tipografi techno / monospace yang menyerupai kode.
+Animasi data flow, node, dan koneksi jaringan.
+#. Interaksi & User Experience
+Cyber Mode Web menekankan interaksi yang terasa cerdas dan cepat:
+Hover menampilkan highlight data.
+Scroll terasa seperti menelusuri sistem jaringan.
+Klik memicu efek digital pulse atau loading system.
+Pengguna seolah menjadi operator, hacker, atau controller dalam sistem digital.
+#. Teknologi yang Digunakan
+Cyber Mode Web biasanya dibangun dengan:
+HTML5 & CSS3 untuk layout futuristik.
+JavaScript untuk interaksi real-time.
+Canvas / SVG untuk animasi data dan partikel.
+Library seperti Particles.js, GSAP, Three.js.
+

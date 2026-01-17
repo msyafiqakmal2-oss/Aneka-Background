@@ -1,4 +1,4 @@
-#. NEON PARTICLE ( IINDEX.HTML )
+1. NEON PARTICLE ( IINDEX.HTML )
    Web Neon Particle adalah konsep desain website modern yang menampilkan efek partikel bercahaya (neon) yang bergerak secara dinamis
 di latar belakang atau sebagai elemen interaktif utama. Gaya ini sering digunakan untuk menciptakan kesan futuristik, digital, dan
 high-tech, sehingga sangat populer pada website bertema teknologi, game, startup, portofolio kreatif, hingga event digital.
@@ -26,7 +26,7 @@ JavaScript untuk animasi dan interaksi.
 CSS untuk efek glow, warna neon, dan transisi.
 Library populer seperti Particles.js, Three.js, atau GSAP untuk animasi lanjutan
 
-#.  APOCALYPSE ( IINNDEX.HTML )
+2.  APOCALYPSE ( IINNDEX.HTML )
    Web Apocalypse adalah konsep desain website yang mengusung tema kehancuran dunia, pasca-apokaliptik, dan suasana akhir zaman.
 Desain ini menampilkan nuansa gelap, kacau, dan dramatis untuk membangkitkan emosi tegang, misterius, serta rasa bertahan hidup di dunia
  yang telah rusak. Web Apocalypse sering digunakan untuk website game survival, film fiksi ilmiah, komunitas cyberpunk, atau proyek kreatif bertema distopia.
@@ -55,7 +55,7 @@ JavaScript & Canvas untuk animasi partikel (debu, api, asap).
 WebGL / Three.js untuk efek 3D dan lingkungan dinamis.
 GSAP untuk animasi cinematic dan transisi dramatis.
 
-#. GOD MODE ( INDDEX.HTML )
+3. GOD MODE ( INDDEX.HTML )
    GOD MODE WEB adalah konsep desain website yang merepresentasikan kekuatan absolut, kendali penuh, dan dominasi sistem digital.
    Tema ini menggambarkan pengguna sebagai entitas tertinggi (God/Admin/Overseer) yang memiliki kontrol total atas dunia digital di dalam website.
    GOD MODE WEB menggabungkan visual futuristik, efek energi, cahaya ekstrem, dan animasi responsif untuk menciptakan kesan maha-kuasa, elite, dan beyond human.

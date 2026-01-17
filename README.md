@@ -1,4 +1,4 @@
-#. NEON PARTICLE ( IINDEX.HTML )
+. NEON PARTICLE ( IINDEX.HTML )
    Web Neon Particle adalah konsep desain website modern yang menampilkan efek partikel bercahaya (neon) yang bergerak secara dinamis
 di latar belakang atau sebagai elemen interaktif utama. Gaya ini sering digunakan untuk menciptakan kesan futuristik, digital, dan
 high-tech, sehingga sangat populer pada website bertema teknologi, game, startup, portofolio kreatif, hingga event digital.

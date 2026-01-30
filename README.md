@@ -22,7 +22,7 @@ Memberikan pengalaman pengguna (UX) yang unik, berbeda dari website statis biasa
 # . Teknologi yang Digunakan
 Efek Web Neon Particle umumnya dibuat menggunakan:
 HTML5 Canvas untuk menggambar dan menggerakkan partikel.
-JavaScript untuk animasi dan interaksi.
+JavaScript untuk animasi dan interaksi yang sangat menarik.
 CSS untuk efek glow, warna neon, dan transisi.
 Library populer seperti Particles.js, Three.js, atau GSAP untuk animasi lanjutan
 

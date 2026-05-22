@@ -6,7 +6,7 @@ high-tech, sehingga sangat populer pada website bertema teknologi, game, startup
   Web Neon Particle menggabungkan warna neon terang (seperti cyan, ungu, biru elektrik, hijau neon, atau magenta) dengan partikel kecil
  yang bergerak bebas atau saling terhubung membentuk pola tertentu. Partikel ini biasanya bereaksi terhadap gerakan mouse, sentuhan, atau
 scroll, sehingga memberikan pengalaman visual yang hidup dan interaktif.
-# . Ciri-Ciri Utama
+# . Ciri-Ciri Utama PP apa
 Beberapa karakteristik khas dari Web Neon Particle antara lain:
 Efek cahaya (glow) yang kuat, menyerupai lampu neon.
 Animasi partikel dinamis, bergerak, berdenyut, atau saling terhubung dengan garis tipis bercahaya.

@@ -18,7 +18,7 @@ Web Neon Particle tidak hanya bersifat estetis, tetapi juga memiliki fungsi, ant
 Mnarik perhatian pengguna sejak pertama kali membuka website.
 Meningkatkan kesan profesional dan modern.
 Memperkuat identitas visual brand, terutama yang bergerak di bidang teknologi dan kreatif.
-Memberikan pengalaman pengguna (UX) yang unik, berbeda dari website statis biasa.
+Memberikan pengalaman pengguna (UX) yang unik, berbeda dari website statis biasa.  
 # . Teknologi yang Digunakan
 Efek Web Neon Particle umumnya dibuat menggunakan:
 HTML5 Canvas untuk menggambar dan menggerakkan partikel.
